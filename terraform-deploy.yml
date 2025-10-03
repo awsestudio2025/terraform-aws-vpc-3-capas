@@ -19,7 +19,7 @@ jobs:
   terraform:
     name: 'Terraform'
     runs-on: ubuntu-latest
-    environment: Desarrollo # Define un entorno para mejor control
+    environment: production # Define un entorno para mejor control
 
     permissions:
       id-token: write # Permite que GitHub obtenga un token para OIDC
