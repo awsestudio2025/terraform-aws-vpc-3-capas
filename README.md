@@ -6,7 +6,7 @@ Arquitectura Visual: Aquí se detalla el diseño de red de la VPC, asegurando Al
 
 ![Diagrama de Arquitectura de la VPC de Tres Capas](diagram.png)
 
-Tecnologías Utilizadas: (Ej: AWS, Terraform v1.5, VPC, NAT Gateway, CloudWatch).
+Tecnologías Utilizadas: (AWS, Terraform, IGW, VPC, NAT Gateway, ALB, EC2/ASG, RDS).
 
 Uso / Despliegue: Instrucciones claras y paso a paso (comandos) sobre cómo ejecutar el código (Ej: terraform init, terraform apply).
 
